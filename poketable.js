@@ -1,4 +1,3 @@
-'use strict';
 //Tipo del ataque que desea realizar
 // donde :
 //"Insecto"=0
